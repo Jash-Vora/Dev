@@ -1,0 +1,6 @@
+20240221	16:32:36	5920e47e-b083-4fbe-8d04-f3e3466d7ed9	/views/new-page	GET
+20240221	16:32:36	4bf9a7f1-6c33-4dd5-ad36-cf170b0ada72	/css/style.css	GET
+20240221	16:32:36	7decd2e1-e124-4161-8781-a648a2f10c98	/favicon.ico	GET
+20240221	16:34:32	0544959d-ab0d-4be9-b569-bf194dcfa033	/new-page	GET
+20240221	16:34:32	fabdc6a2-b982-4734-92d3-b9cb0ae30431	/css/style.css	GET
+20240221	16:34:32	f2f96499-6d9f-417c-8fb0-2056af770fc5	/image/img.jpg	GET
