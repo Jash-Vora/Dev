@@ -1,0 +1,2 @@
+20240223	16:40:43	68040966-d270-4a58-9d70-71fbe7dbf056	Error	Not allowed by CORS
+20240314	16:46:00	ac2561e1-8da5-434f-8a48-44551264be0b	Error: secretOrPrivateKey must have a value
